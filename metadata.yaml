@@ -1,0 +1,25 @@
+_repo: Elektrotechnisches-Experimentierbuch-Eine-Anleitung-zur-Ausfuhrung-elektrotechnischer-Experim__69522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schnetzler, Eberhard
+    gutenberg_agent_id: '55297'
+    url: http://www.gutenberg.org/2009/agents/55297
+description: ''
+gutenberg_issued: '2022-12-11'
+identifiers:
+  gutenberg: '69522'
+language: de
+pgterms:marc905: 20160717074105schnetzler
+pgterms:marc906: '1909'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Union Deutsche Verlagsgesellschaft,1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elektrotechnisches Experimentierbuch: Eine Anleitung zur Ausführung elektrotechnischer
+  Experimente unter Verwendung einfachster, meist selbst herzustellender Hilfsmittel'
+url: http://www.gutenberg.org/ebooks/69522
