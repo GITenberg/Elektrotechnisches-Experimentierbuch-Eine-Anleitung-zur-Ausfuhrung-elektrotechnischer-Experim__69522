@@ -1,11 +1,16 @@
 _repo: Elektrotechnisches-Experimentierbuch-Eine-Anleitung-zur-Ausfuhrung-elektrotechnischer-Experim__69522
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69522-h/images/cover.jpg
 creator:
   author:
     agent_name: Schnetzler, Eberhard
     gutenberg_agent_id: '55297'
     url: http://www.gutenberg.org/2009/agents/55297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69522#Elektrotechnisches-Experimentierbuch-Eine-Anleitung-zur-Ausfuhrung-elektrotechnischer-Experim_
 gutenberg_issued: '2022-12-11'
 identifiers:
   gutenberg: '69522'
